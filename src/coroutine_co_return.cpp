@@ -85,4 +85,6 @@ int main() {
     cout << "created a corutine, try to get a value\n";
     int an = c.get();
     cout << "value is " << an << endl;
+
+    cin.get();
 }
