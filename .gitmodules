@@ -2,3 +2,7 @@
 	path = cpp20-execution-playground
 	url = https://github.com/dirkarnez/cpp20-execution-playground.git
 	branch = main
+[submodule "cpp20-coroutine-playground"]
+	path = cpp20-coroutine-playground
+	url = https://github.com/dirkarnez/cpp20-coroutine-playground.git
+	branch = main
