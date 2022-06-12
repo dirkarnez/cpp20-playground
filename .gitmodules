@@ -6,3 +6,7 @@
 	path = cpp20-coroutine-playground
 	url = https://github.com/dirkarnez/cpp20-coroutine-playground.git
 	branch = main
+[submodule "cpp20-jthread-playground"]
+	path = cpp20-jthread-playground
+	url = https://github.com/dirkarnez/cpp20-jthread-playground.git
+	branch = main
