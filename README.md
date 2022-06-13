@@ -1,6 +1,12 @@
 cpp20-playground
 ================
-Uses GCC ([MinGW Distro - nuwen.net](https://nuwen.net/mingw.html)) instead of MSVC.
+Super playground project for C++20. 
+
+### Compiler
+- Uses GCC ([MinGW Distro - nuwen.net](https://nuwen.net/mingw.html)) instead of MSVC.
+
+### Before C++20
+- [cpp-playground](https://github.com/dirkarnez/cpp-playground)
 
 ### Reference
 - [AnthonyCalandra/modern-cpp-features: A cheatsheet of modern C++ language and library features.](https://github.com/AnthonyCalandra/modern-cpp-features)
